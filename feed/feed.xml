@@ -5,11 +5,23 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/feed/feed.xml" rel="self" />
   <link href="https://example.com/" />
-  <updated>2024-12-21T00:00:00Z</updated>
+  <updated>2024-12-22T00:00:00Z</updated>
   <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>Blog post numero due</title>
+    <link href="https://example.com/blog/21-12-24/" />
+    <updated>2024-12-22T00:00:00Z</updated>
+    <id>https://example.com/blog/21-12-24/</id>
+    <content type="html">&lt;p&gt;Testo del post scritto nel file MD&lt;/p&gt;
+&lt;h2 id=&quot;section-header&quot;&gt;Section Header&lt;/h2&gt;
+&lt;p&gt;Sezione 2&lt;/p&gt;
+&lt;p&gt;##Conclusione
+Fine&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>First post</title>
     <link href="https://example.com/blog/fourthpost/" />
@@ -18,18 +30,6 @@
     <content type="html">&lt;p&gt;Testo del post scritto nel file MD&lt;/p&gt;
 &lt;h2 id=&quot;section-header&quot;&gt;Section Header&lt;/h2&gt;
 &lt;p&gt;Sezione 2&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Blog post numero due</title>
-    <link href="https://example.com/blog/21-12-24/" />
-    <updated>2024-12-21T00:00:00Z</updated>
-    <id>https://example.com/blog/21-12-24/</id>
-    <content type="html">&lt;p&gt;Testo del post scritto nel file MD&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot;&gt;Section Header&lt;/h2&gt;
-&lt;p&gt;Sezione 2&lt;/p&gt;
-&lt;p&gt;##Conclusione
-Fine&lt;/p&gt;
 </content>
   </entry>
 </feed>
